@@ -64,4 +64,12 @@
 * Ruby Quiz http://www.rubyquiz.com
 * Code Katas http://codekata.pragprog.com/
 * Facebook Engineering Puzzles http://www.facebook.com/careers/puzzles.php
+
+!SLIDE bullets incremental
+# Resources - page 2 #
 * Testing Mindset - Noel Rappin http://rubylearning.com/blog/2010/09/30/the-testing-mindset/
+
+! Slide bullets incremental
+# That's it! #
+
+* Thank you!
