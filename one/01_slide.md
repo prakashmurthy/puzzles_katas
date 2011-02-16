@@ -68,8 +68,9 @@
 !SLIDE bullets incremental
 # Resources - page 2 #
 * Testing Mindset - Noel Rappin http://rubylearning.com/blog/2010/09/30/the-testing-mindset/
+* Gregory Brown (@seacreature)'s talk http://confreaks.net/videos/472-rubyconf2010-ruby-mendicant-university-a-new-way-to-learn
 
-! Slide bullets incremental
+!SLIDE bullets incremental
 # That's it! #
 
 * Thank you!
