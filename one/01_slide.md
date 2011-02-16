@@ -1,6 +1,7 @@
-!SLIDE 
+!SLIDE  bullets incremental
 # Puzzles, Katas & Quizzes - Awesome way to clock some coding miles#
-  Boulder Ruby Group Meeting Feb 15, 2011                    Prakash Murthy
+* Boulder Ruby Group Meeting Feb 15, 2011                    
+* Prakash Murthy
 
 !SLIDE bullets incremental
 # Who Am I #
@@ -18,6 +19,9 @@
 !SLIDE bullets incremental
 # The Reducibles Problem #
 * ![Reducibles problem](reducibles_puzzle.png)
+
+!SLIDE bullets incremental
+# The Reward #
 * Didn't get me the job at causes.com, but later on led to my current gig at Foraker Labs!
 
 !SLIDE bullets incremental
